@@ -57,6 +57,7 @@ p{
     align: right;
     width: 650px;
     margin-left: 70px;
+    display: inline;
 }
 #vídeo{
     margin-bottom: 40px;
