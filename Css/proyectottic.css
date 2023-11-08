@@ -45,14 +45,16 @@ p{
 }
 #ovnifoto{
     border: 2px solid;
+    align: left;
     height: 400px;
-    width: 650px;
+    width: 40%;
     margin-bottom: 40px;
 }
 #ovnifoto2{
     margin-bottom: 40px;
     border: 2px solid;
-    height: 400px;
+    height: 40%;
+    align: right;
     width: 650px;
     margin-left: 70px;
 }
