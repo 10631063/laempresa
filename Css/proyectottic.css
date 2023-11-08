@@ -47,7 +47,7 @@ p{
     border: 2px solid;
     align: left;
     height: 400px;
-    width: 40%;
+    width: 680px;
     margin-bottom: 40px;
 }
 #ovnifoto2{
@@ -55,8 +55,8 @@ p{
     border: 2px solid;
     height: 400px;
     align: right;
-    width: 40%;
-    display: inline;
+    width: 680px;
+    margin-left: 70px
 }
 #vídeo{
     margin-bottom: 40px;
