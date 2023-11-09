@@ -47,15 +47,13 @@ body{
    img{
     border-radius: 1cm;
     width: 420px;
-    
     }
    
 
     table{
         margin-top: 1cm;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        border-color: rgb(0, 0, 0);
-        
+        border-color: rgb(0, 0, 0); 
     }
 
    section{
@@ -76,4 +74,8 @@ body{
     background-color: rgb(255, 248, 143);
     
    }
-
+   audio{
+   
+   margin-top: 1cm;
+   margin-left: 3cm;
+   }
