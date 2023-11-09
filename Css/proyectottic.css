@@ -60,7 +60,7 @@ p{
 }
 #vídeo{
     margin-bottom: 40px;
-    border-radious: 20px solid black
+    border-radious: 20px solid black;
 }
 #encabezado:hover{
     color: rgb(255, 0, 0);
