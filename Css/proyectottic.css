@@ -61,6 +61,8 @@ p{
 #vídeo{
     margin-bottom: 40px;
     border-radious: 20px solid black;
+    width: 680px;
+    height: 400px;
 }
 #encabezado:hover{
     color: rgb(255, 0, 0);
