@@ -134,7 +134,6 @@ button:hover{
         background-color: deeppink;
     }
 .img2{
-    border-image-source: none
     border-image-slice: 100%
     border-image-width (en-US): 1
     border-image-outset: 0
