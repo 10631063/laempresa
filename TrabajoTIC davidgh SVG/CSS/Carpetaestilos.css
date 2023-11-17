@@ -1,0 +1,36 @@
+body{
+    background-color: #becef0;
+}
+
+h1{
+    background-color: #8cdfc3;
+    text-shadow: 5px 3px 4px rgb(99, 90, 219);
+}
+h2{
+    background-color:#8ecde6 ;
+    text-align: center;
+    
+}
+p{
+    font-family: "Times New Roman", 'Times New Roman', Times, serif ;
+    }
+table{
+    background-color: rgb(231, 231, 199);
+    text-indent: 1cm;
+    border-block-color: blue;
+    }
+#cssitalic{
+    font-style: italic;
+}
+table tr img{
+    width: 250px;
+}
+h1{
+    text-align: center;
+}
+ul{
+    margin-left: 0,5cm;
+}
+#pentágono{
+    align-items: right;
+}
