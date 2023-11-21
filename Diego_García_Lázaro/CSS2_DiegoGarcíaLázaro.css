@@ -1,0 +1,43 @@
+#fotomia{height: 300px;}
+body{
+    background-color: rgb(84, 159, 202);
+}
+header{display: flex;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    color: rgb(00, 00, 225);
+    text-decoration: underline;
+    text-shadow: 5px 5px 2px grey;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+footer{
+    color: #ffffff;
+    background-color: #00000c;
+    font-size: 25px;
+    text-align: center;
+    min-height: 90px;
+    text-decoration: none;
+    color: #ffffff;
+    }
+    table {margin-top: 30px;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-bottom: 30px;
+        text-align: center;}
+     table .colspan{background-color: #ff0000;}
+     #hobbies{
+        margin-top:90px;
+        text-decoration: none;
+        text-align: justify;
+        color: #ffffff;
+        font-size: 25px;
+        border: #ffffff 3px solid;
+        margin-bottom: 27px;
+    }
+    
