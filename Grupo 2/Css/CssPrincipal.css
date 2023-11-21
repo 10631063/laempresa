@@ -1,7 +1,42 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color:khaki;
+    background-color:lightseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
+style{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.circle1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 3px solid #fe444425;
+    border-top: 3px solid red;
+    animation: ain 3s linear infinite;
+}
+.circle2{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 3px solid #fe444425;
+    border-top: 3px solid #f9ce24;
+    animation: ani 2s linear infinite;
+}
+@keyframes ani{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg)
+    }
 .menu{
     list-style: none;
     padding: 0cm;
