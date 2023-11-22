@@ -31,6 +31,10 @@ h1{
 ul{
     margin-left: 0,5cm;
 }
-#pentágono{
-    align-items: right;
+polygon{
+    border: 4px;
+    fill: azure;
+}
+svg{
+    float: right;
 }
