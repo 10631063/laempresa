@@ -76,5 +76,6 @@ footer a{
     border: #ffffff 3px solid;
 }
 #pentágono{
-    float: right; 
+    float: right;
+    background-color: white;
 }
