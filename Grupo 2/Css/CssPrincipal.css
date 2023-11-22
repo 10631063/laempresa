@@ -1,7 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color:lightseagreen;
-    display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -28,7 +27,7 @@ style{
     border-radius: 50%;
     border: 3px solid #fe444425;
     border-top: 3px solid #f9ce24;
-    animation: ani 2s linear infinite;
+    animation: ain 2s linear infinite;
 }
 @keyframes ani{
     0%{
