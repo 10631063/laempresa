@@ -34,6 +34,7 @@ ul{
 #pentágono{   
     fill:red;
     animation: moverpentágono 4s infinite ease-out;
+    float: right;
 }
 @keyframes moverpentágono{
    100%{
