@@ -77,7 +77,10 @@ footer a{
 }
 #pentágono{   
     fill: white;
+    animation: moverpentágono 4s infinite ease-out;
 }
-svg{
-     float: right;
+@keyframes moverpentágono{
+   100%{
+       transform: translateX(100px)
+   }
 }
