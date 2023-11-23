@@ -40,3 +40,7 @@ ul{
        transform: translateX(100px)
    }
 }
+svg{
+float: left;
+}
+
