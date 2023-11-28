@@ -84,3 +84,15 @@ footer a{
        transform: translateX(100px)
    }
 }
+@media(max-width: 800px) {
+    header(
+        width:100%;
+        float: none;
+    )
+}
+@media(max-width: 800px) {
+    #fotomia {
+        float: none;
+        width:100%;
+    }
+}
