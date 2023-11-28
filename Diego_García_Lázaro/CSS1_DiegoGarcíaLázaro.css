@@ -1,4 +1,4 @@
-#fotomia{height: 300px;}
+a#fotomia{height: 300px;}
 body{
     background-color: rgb(84, 159, 202);
 }
@@ -89,6 +89,8 @@ footer a{
         width:100%;
         float: none;
     }
+}
+@media(max-width: 800px) {
     header{
         width:100%;
     }
