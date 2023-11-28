@@ -64,6 +64,7 @@ h1{
     text-align: center;
     text-shadow: 5px 2px 4px rgb(85, 83, 83);
     font-variant: small-caps;
+    width: 100%
 } 
 p{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
