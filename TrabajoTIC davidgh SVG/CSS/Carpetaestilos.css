@@ -5,6 +5,8 @@ body{
 h1{
     background-color: #8cdfc3;
     text-shadow: 5px 3px 4px rgb(99, 90, 219);
+    width: 100%;
+    text-align: center;
 }
 h2{
     background-color:#8ecde6 ;
@@ -25,9 +27,7 @@ table{
 table tr img{
     width: 250px;
 }
-h1{
-    text-align: center;
-}
+
 ul{
     margin-left: 0,5cm;
 }
@@ -36,8 +36,24 @@ ul{
     animation: moverpentágono 4s infinite ease-out;
     float: right;
 }
+svg{
+    background-color: azure;
+}
 @keyframes moverpentágono{
    100%{
        transform: translateX(100px)
    }
+}
+@media screen and (min-width:800px){  
+    svg{
+        width: 100%;
+        float:none;
+
+    }
+}
+@media screen and (min-width:800px){  
+    #fotomia{
+        width: 50%;
+        float:none;
+    }
 }
